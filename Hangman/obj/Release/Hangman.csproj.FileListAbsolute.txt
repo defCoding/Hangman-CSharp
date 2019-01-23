@@ -1,0 +1,13 @@
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\bin\Release\Hangman.exe.config
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\bin\Release\Hangman.exe
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\bin\Release\Hangman.pdb
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\obj\Release\Hangman.frmRecords.resources
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\obj\Release\Hangman.frmOptions.resources
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\obj\Release\Hangman.frmPopupMenu.resources
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\obj\Release\Hangman.frmGameEnd.resources
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\obj\Release\Hangman.frmHangman.resources
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\obj\Release\Hangman.Properties.Resources.resources
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\obj\Release\Hangman.csproj.GenerateResource.cache
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\obj\Release\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\obj\Release\Hangman.exe
+C:\Users\kcao1\workspace\VisualStudio\Hangman\Hangman\obj\Release\Hangman.pdb
